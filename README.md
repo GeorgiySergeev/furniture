@@ -8,3 +8,6 @@ Creating PET project
 5.Gulp;
 6.Adaptive;
 7.БЭМ;
+
+
+https://www.figma.com/file/ry9Hvz6GXmDV4gULccDLJR/desire?type=design&node-id=5-0&mode=design&t=ZsM98X1jbHIrfski-0
