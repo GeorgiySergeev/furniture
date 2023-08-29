@@ -10,5 +10,5 @@ Creating PET project
 7.БЭМ;
 
 
-Figms template: 
+Figma template: 
 https://www.figma.com/file/ry9Hvz6GXmDV4gULccDLJR/desire?type=design&node-id=5-0&mode=design&t=ZsM98X1jbHIrfski-0
