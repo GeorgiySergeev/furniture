@@ -1,0 +1,32 @@
+{
+  "name": "gulp_start",
+  "version": "1.0.0",
+  "description": "my-gulp-poroject",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeorgiySergeev/gulp-build.git"
+  },
+  "author": "Sergeev George",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeorgiySergeev/gulp-build/issues"
+  },
+  "homepage": "https://github.com/GeorgiySergeev/gulp-build#readme",
+  "devDependencies": {
+    "browser-sync": "^2.29.3",
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-uglify-es": "^3.0.0",
+    "jquery": "^3.7.1",
+    "sass": "^1.66.1"
+  }
+}
