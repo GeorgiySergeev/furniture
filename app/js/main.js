@@ -12,5 +12,17 @@ $(".rightside-menu__close").on("click", function () {
     arrows: false,
     fade: true,
     autoplay: true,
+    autoplaySpeed: 2500,
   });
+
+  
+ var mixer = mixitup ('.gallery__inner', {
+  load: {
+    filter: '.bedroom'
+}
+ } )
+
+ 
 });
+ 
+//var mixitup = require('.galley__inner');
